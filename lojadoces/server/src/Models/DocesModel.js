@@ -66,3 +66,4 @@ class DocesModel {
     }
 }
 export default new DocesModel()
+
